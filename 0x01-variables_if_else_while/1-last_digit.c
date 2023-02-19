@@ -3,9 +3,9 @@
 #include <stdio.h>
 
 /**
- * main - annoying
+ * main - Annoying
  *
- * Return = 0
+ * Return: 0
  */
 int main(void)
 {
