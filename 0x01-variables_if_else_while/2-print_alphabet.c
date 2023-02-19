@@ -7,8 +7,7 @@
  */
 int main(void)
 {
-	char lc;
-	int lc;
+	char lc
 
 	for (lc = 'a'; lc <= 'z'; lc++)
 	{
