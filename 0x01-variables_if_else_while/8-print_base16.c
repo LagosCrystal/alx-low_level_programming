@@ -22,6 +22,7 @@ int main(void)
 	while
 		(c <= 'f') {
 			putchar(0);
+			c++;
 		}
 	putchar('\n');
 	return (0);
