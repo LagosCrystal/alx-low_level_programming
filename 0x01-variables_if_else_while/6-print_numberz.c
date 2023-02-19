@@ -15,6 +15,6 @@ int main(void)
 			putchar(c + '0');
 			c++;
 		}
-	putcha('\n');
+	putchar('\n');
 	return (0);
 }
