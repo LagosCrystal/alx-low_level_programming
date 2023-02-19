@@ -1,5 +1,5 @@
 #include <stdio>
-/*
+/**
  * main - Entry point
  *
  * Description: Print alphabeth in lower case followed by new line
