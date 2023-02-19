@@ -2,14 +2,15 @@
 
 /**
  * main - print alphabeth in lower case
+ *
  * Return: Always 0
  */
 int main(void)
 {
 	char lc;
+	int lc;
 
-	for (lc = 'a'; lc <= 'z'; lc++);
-	
+	for (lc = 'a'; lc <= 'z'; lc++)
 	{
 		putchar(lc);
 	}
