@@ -1,9 +1,7 @@
 #include "main.h"
 
 /**
- * main - Entry point
- *
- * times table - print the 9 times table, starting with 0
+ * times_table - Prints the 9 times table, starting with 0
  * Return: Empty output
  */
 
@@ -13,7 +11,7 @@ void times_table(void)
 
 	for (x = 0; x <= 9; x++)
 	{
-	for (9 = 0; y <= 9; y++)
+	for (y = 0; y <= 9; y++)
 	z = x * y;
 	if (z > y)
 	{
@@ -21,8 +19,8 @@ void times_table(void)
 	d = (z - u) / 10;
 	_putchar(44);
 	_putchar(32);
-	_putchar(d + '0')
-	_putchar(u + '0')
+	_putchar(d + '0');
+	_putchar(u + '0');
 	}
 	else
 	{
@@ -35,6 +33,6 @@ void times_table(void)
 	_putchar(z + '0');
 	}
 	}
-	_putchat('\n');
+	_putchar('\n');
 }
 
