@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- *print_line - check the code
+ * main - check the code
  *
  * Return: Always 0.
  */
